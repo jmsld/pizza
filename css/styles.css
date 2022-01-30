@@ -1,0 +1,30 @@
+/**************TAG SELECTORS**************/
+
+h1 {
+  font-size: 100px;
+  color: #C85C5C;
+  font-family: verdana;
+}
+
+h1:hover {
+  color: #6b8e23;
+}
+
+img:hover {
+  background-color: #FBD148;
+}
+
+body {
+  cursor: url(https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/312/pizza_1f355.png), auto;
+}
+
+
+/**************CLASS SELECTORS**************/
+
+.pizza {
+  background-color: #F9975D;
+}
+
+.circular {
+  border-radius: 100%;
+}
